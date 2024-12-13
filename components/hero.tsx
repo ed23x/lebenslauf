@@ -1,7 +1,7 @@
-'use client';
+"use client";
 
-import { motion } from 'framer-motion';
-import { ArrowDown } from 'lucide-react';
+import { motion } from "framer-motion";
+import { ArrowDown } from "lucide-react";
 
 export function Hero() {
   return (
@@ -13,7 +13,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          E D
+          vorname nachname
         </motion.h1>
         <motion.p
           className="text-2xl text-muted-foreground mb-8"

@@ -5,37 +5,37 @@ import { motion } from "framer-motion";
 const experiences = [
   {
     title: "Bildung",
-    company: "Landfermann Gymnasium Duisburg",
+    company: "Muster Gymnasium Stadt",
     period: "2019 - heute",
     description: "Gymnasiale Ausbildung",
   },
   {
     title: "Bildung",
-    company: "GGS Astrid-Lindgren-Schule Duisburg",
+    company: "Grundschule Stadt",
     period: "2015 - 2019",
     description: "Grundschulausbildung",
   },
   {
     title: "Praktikum",
-    company: "Hanna-Zürndorfer-Schule Düsseldorf",
+    company: "Muster Schule Stadt",
     period: "27.04.2023",
     description: "Schulpraktikum",
   },
   {
     title: "Praktikum",
-    company: 'Kunstwerkstatt "CITYARTSUKOV" Duisburg',
+    company: "Kunstwerkstatt Stadt",
     period: "14.02.2023",
     description: "Kunstpraktikum",
   },
   {
     title: "Praktikum",
-    company: "Thomas Blatt Rechtsanwaltskanzlei Duisburg",
+    company: "Rechtsanwaltskanzlei Stadt",
     period: "30.01.2023",
     description: "Rechtspraktikum",
   },
   {
     title: "Praktikum",
-    company: "Krankikom GMBH",
+    company: "Software GmbH",
     period: "13.01 - 17.01.2025",
     description: "Einwöchiges Praktikum bei einer Softwarefirma",
   },
